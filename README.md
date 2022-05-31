@@ -2,8 +2,6 @@
 
 JAR file example app for uploading files to Google Drive using user refresh-token.
 
-NOTE: Adwords API will sunset next year 2022.
-
 ### What is this repository for? ###
 
 * Quick summary
